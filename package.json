@@ -1,0 +1,33 @@
+{
+  "name": "two-checkout-node",
+  "version": "0.1.0",
+  "description": "An updated package for the 2checkout REST 5.0 api",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassansaleh31/two-checkout-node.git"
+  },
+  "keywords": [
+    "2checkout",
+    "nodejs",
+    "api"
+  ],
+  "author": "Hassan Saleh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hassansaleh31/two-checkout-node/issues"
+  },
+  "homepage": "https://github.com/hassansaleh31/two-checkout-node#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.9.0",
+    "ts-node": "^8.0.2",
+    "typescript": "^3.3.3"
+  }
+}
