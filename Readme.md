@@ -9,7 +9,7 @@ A library bases on 2Checkout REST 5.0 api
 - [x] Retrieve, Search, Create and Update Product Configurations
 - [x] Retrieve, Search, Create and Update Price Options Groups
 - [x] Retrieve and Create Additional Fields
-- [ ] Retrieve, Search, Create and Update Promotions
+- [x] Retrieve, Search, Create and Update Promotions
 - [ ] Place Orders
 - [ ] 1-Click Purchases
 - [ ] Orders With Installments
